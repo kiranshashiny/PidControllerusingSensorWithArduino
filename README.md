@@ -28,8 +28,11 @@ Male to Male/ female to female and some female to male connectors to connect the
 References :
 
 https://en.wikipedia.org/wiki/PID_controller
-https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/
-https://en.wikipedia.org/wiki/Sensor
-https://github.com/br3ttb/Arduino-PID-Library/blob/master/PID_v1.h
-https://www.arduino.cc/
 
+https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/
+
+https://en.wikipedia.org/wiki/Sensor
+
+https://github.com/br3ttb/Arduino-PID-Library/blob/master/PID_v1.h
+
+https://www.arduino.cc/
