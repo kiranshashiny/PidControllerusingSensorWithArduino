@@ -58,6 +58,11 @@ Pin 4 and 5 are connected to GND.
 
 Pin 8 is connected to 12V DC wall adapter. 
 
+The Inputs of the LDR:
+
++5V -> one end of the 220 ohm resistor
+Other end is connected to 
+
 
 References :
 
