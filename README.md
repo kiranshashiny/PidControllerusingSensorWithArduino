@@ -26,7 +26,21 @@ L293D - motor driver
 Male to Male/ female to female and some female to male connectors to connect the circuit.
 
 
+The formula for calculating the PID is as shown in this formula.
+
+<img width="723" alt="screen shot 2017-07-03 at 1 13 07 pm" src="https://user-images.githubusercontent.com/14288989/27782744-62e4fd94-5ff1-11e7-9544-234348dc1458.png">
+
+
+I've used the Arduino Pid Library PID_v1.h in my sketch as shown.
+
+<img width="565" alt="screen shot 2017-07-03 at 1 18 55 pm" src="https://user-images.githubusercontent.com/14288989/27783035-43dcc336-5ff2-11e7-862b-b234eee5ff25.png">
+
+<img width="694" alt="screen shot 2017-07-03 at 1 19 18 pm" src="https://user-images.githubusercontent.com/14288989/27783034-439ccf56-5ff2-11e7-9da0-694c4c2a70c3.png">
+
+
 References :
+
+
 
 https://en.wikipedia.org/wiki/PID_controller
 
