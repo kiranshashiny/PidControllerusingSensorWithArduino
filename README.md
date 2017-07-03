@@ -37,6 +37,27 @@ I've used the Arduino Pid Library PID_v1.h in my sketch as shown.
 
 <img width="694" alt="screen shot 2017-07-03 at 1 19 18 pm" src="https://user-images.githubusercontent.com/14288989/27783034-439ccf56-5ff2-11e7-9da0-694c4c2a70c3.png">
 
+The connections are as follows :
+Arduino  Motor Driver L293D
+
+===========================
+Pin  9      Enable 1 
+
+Pin  5      IN1
+
+Pin  6      IN2
+
+### Motor Driver L293D
+Pin 3 and 6 - to Motor Inputs.
+
+Pin 2 and 7 are inputs from the Arduino
+
+Pin 1 is connected to Pin 9 ( EN1) of the Arduino
+
+Pin 4 and 5 are connected to GND.
+
+Pin 8 is connected to 12V DC wall adapter. 
+
 
 References :
 
