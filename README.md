@@ -1,11 +1,12 @@
-# Pid Controller using a Light Detecting sensor With Arduino to control a geared 12V DC motor.
+# PID Controller using a Light Detecting Sensor and an Arduino to control a Geared 12V DC motor.
 
-In this blog I have used a LDR light detecting resistor as a sensor to calculate the output needed for controlling a DC motor.
+This blog is not about the PID controller ! There are a lot of videos/wiki materials out on the internet that tells about this.
+
+Here I have used the PID algorithm to control a geared DC motor based on inputs from the Light Detecting Resistor.
 
 If the intensity of light to the LDR decreases, then the motor starts turning clockwise and likewise if the light to the LDR increases - then the motor starts spinning in the reverse ( anti clockwise ) direction.
 
-A simple experiment would be if I moved my finger on the LDR and as I come close and try to cover it then the motor spins clockwise, and as I withdraw my finger from my LDR - the motor spins anticlockwise.
-
+A simple experiment would be if I moved my finger on the LDR and as I come close and try to cover it then the motor spins clockwise, and as I withdraw my finger from my LDR - the motor spins anticlockwise. This is my first foray into tis project and would like to implement or extrapolate on this a little further once I get familiarity in the functioning of the algorithm and it's behavior.
 
 Now, this is all based on an algorithm called PID ( Proportional, Integral and Differential) and one can find a lot of examples, definitions, videos of what a PID is on the internet these days.
 
