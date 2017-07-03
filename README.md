@@ -1,4 +1,4 @@
-# PidControllerusingSensorWithArduino
+# Pid Controller using a Light Detecting sensor With Arduino to control a geared 12V DC motor.
 
 In this blog I have used a LDR light detecting resistor as a sensor to calculate the output needed for controlling a DC motor.
 
@@ -24,4 +24,12 @@ L293D - motor driver
 12V geared DC motor
 Male to Male/ female to female and some female to male connectors to connect the circuit.
 
+
+References :
+
+https://en.wikipedia.org/wiki/PID_controller
+https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/
+https://en.wikipedia.org/wiki/Sensor
+https://github.com/br3ttb/Arduino-PID-Library/blob/master/PID_v1.h
+https://www.arduino.cc/
 
