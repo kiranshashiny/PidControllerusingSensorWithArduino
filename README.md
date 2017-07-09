@@ -4,6 +4,8 @@ This blog is not about the PID controller ! There are a lot of videos/wiki mater
 
 Here I have used the PID algorithm to control a geared DC motor based on inputs from the Light Detecting Resistor.
 
+###This is being superseded by my next version which balances the ball on a rail controlled using Ultrasonic Distance Sensor a Servo motor connected to an Arduino https://github.com/kiranshashiny/PidController_BallBalancingRobot
+
 If the intensity of light to the LDR decreases, then the motor starts turning clockwise and likewise if the light to the LDR increases - then the motor starts spinning in the reverse ( anti clockwise ) direction.
 
 A simple experiment would be if I moved my finger on the LDR and as I come close and try to cover it then the motor spins clockwise, and as I withdraw my finger from my LDR - the motor spins anticlockwise. This is my first foray into tis project and would like to implement or extrapolate on this a little further once I get familiarity in the functioning of the algorithm and it's behavior.
